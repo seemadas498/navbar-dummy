@@ -26,13 +26,13 @@
 .navLinks_item li a{
     text-decoration: none;
     padding: 10px 0;
-    color:rgb(234, 238, 10);
+    color:white;
     font-size: 18px;
 }
 .navbar_brand a{
     text-decoration: none;
     font-size: 30px;
-    color:rgb(234, 238, 10);
+    color:white;
     font-family: "Dancing Script", serif;
 }
 .dropdown{
