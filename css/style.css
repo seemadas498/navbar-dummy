@@ -55,3 +55,8 @@
 .dropdown:hover .dropdown_content{
     display: block;
 }
+
+body{
+    background-color: palevioletred;
+    text-align: center;
+}
